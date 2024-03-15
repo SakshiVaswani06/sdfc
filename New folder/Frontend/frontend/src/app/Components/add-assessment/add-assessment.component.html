@@ -1,0 +1,23 @@
+<div>
+    <label for="assessmentName">Assessment Title:</label><br>
+    <input type="text" id="assessmentName" [(ngModel)]="assQuesDto.assessmentName"><br>
+
+    <button (click)="openQuestionModal()">Add Question</button><br>
+</div>
+
+<div class="modal" *ngIf="showQuestionModal">
+    <div class="modal-content">
+        <label for="question">Question:</label>
+        <input type="text" id="question" [(ngModel)]="newQuestion.question"><br>
+
+        <label for="questionType">Question Type:</label>
+        <select name="questionType" id="questionType" [(ngModel)]="newQuestion.questionType">
+            <option value="Text">Text</option>
+            <option value="Textarea">TextArea</option>
+        </select>
+        <br> 
+        <button (click)="addQuestion()">Add</button>
+        <button (click)="closeQuestionModal()">Cancel</button>
+    </div>
+</div>
+<button (click)="addAssQues()">Save</button>

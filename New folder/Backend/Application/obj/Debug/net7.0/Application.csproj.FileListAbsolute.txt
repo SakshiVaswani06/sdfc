@@ -1,0 +1,15 @@
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\bin\Debug\net7.0\Application.deps.json
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\bin\Debug\net7.0\Application.dll
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\bin\Debug\net7.0\Application.pdb
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\bin\Debug\net7.0\Domain.dll
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\bin\Debug\net7.0\Domain.pdb
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.dll
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\refint\Application.dll
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\Application.pdb
+D:\DayUser\Sakshi Vaswani\Full Application\13.Test(15March)\Backend\Application\obj\Debug\net7.0\ref\Application.dll

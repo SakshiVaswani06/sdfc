@@ -1,0 +1,22 @@
+<h3>Assessments</h3>
+<div class="container">
+    <button (click)="adddata()" class="add-button">+ New Assessment</button>
+</div>
+<br>
+<div class="assessments-table">
+  <table>
+    <br>
+    <tbody *ngIf="assessments.length > 0">
+      <tr *ngFor="let assessment of assessments">
+        <td class="assessment-cell">{{ assessment.assessmentName }} <button class="edit-button">Edit</button></td>
+        
+      </tr>
+    </tbody>
+    <tfoot *ngIf="assessments.length === 0">
+      <tr>
+        <td colspan="1">No assessments found.</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+<router-outlet></router-outlet>
